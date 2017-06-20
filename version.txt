@@ -24,5 +24,4 @@ def Test():
   file.close()
 Test()
 
-as
-sdf  
+Creating a new branch is quick and simple.
